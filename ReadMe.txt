@@ -1,6 +1,6 @@
 
 This is codes for generating parameters and control variables for MHz inverter systems with 
-impedance compression network. To use this code, Matlab above 2018b is needed.
+impedance compression network. To use this code, Matlab above 2018b is required.
 
 
 The functions of the five documents are as follows:
